@@ -27,17 +27,17 @@ cf: <b>[spadeflush](https://codeforces.com/profile/spadeflush)</b>
   </thead>
   <tbody>
     <tr>
-      <th scope="row"><b>2021</b></th>
+      <th class="font-weight-bold" scope="row">2021</th>
       <td>Hong Kong Olympiad in Informatics (Senior)</td>
       <td>Silver</td>
     </tr>
     <tr>
-      <th scope="row"><b>2021</b></th>
+      <th class="font-weight-bold" scope="row">2021</th>
       <td>Software Development Invitational Contest</td>
       <td>Gold</td>
     </tr>
     <tr>
-      <th scope="row"><b>2020</b></th>
+      <th class="font-weight-bold" scope="row">2020</th>
       <td>Hong Kong Olympiad in Informatics (Junior)</td>
       <td>Silver</td>
     </tr>
@@ -62,12 +62,12 @@ cf: <b>[spadeflush](https://codeforces.com/profile/spadeflush)</b>
   </thead>
   <tbody>
     <tr>
-      <th scope="row"><b>2021/22</b></th>
+      <th class="font-weight-bold" scope="row">2021/22</th>
       <td>La Salle College Computer Team</td>
       <td>Captain</td>
     </tr>
     <tr>
-      <th scope="row"><b>2021</b></th>
+      <th class="font-weight-bold" scope="row">2021</th>
       <td>Joint School Olympiad in Informatics</td>
       <td>Host</td>
     </tr>
@@ -93,12 +93,12 @@ cf: <b>[spadeflush](https://codeforces.com/profile/spadeflush)</b>
   </thead>
   <tbody>
     <tr>
-      <th scope="row"><b>2021</b></th>
+      <th class="font-weight-bold" scope="row">2021</th>
       <td>La Salle Pui Ching Programming Contest</td>
       <td>Merit</td>
     </tr>
     <tr>
-      <th scope="row"><b>2021</b></th>
+      <th class="font-weight-bold" scope="row">2021</th>
       <td>ICPC Asia Macau Regional Contest</td>
       <td>Participant</td>
     </tr>
