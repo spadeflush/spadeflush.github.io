@@ -113,10 +113,13 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  notes:
+    output: true
+    permalink: /notes/:path/
   interests:
     output: true
     permalink: /interests/:path/
-    
+
 
 news_limit: 5
 
