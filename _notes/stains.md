@@ -6,7 +6,7 @@ date: 2022-06-04
 
 authors:
   - name: Brian Chau
-    url: "spadeflush.github.io"
+    url: "https://spadeflush.github.io"
     affiliations:
       name: La Salle College
 
@@ -18,17 +18,8 @@ authors:
 #   - we may want to automate TOC generation in the future using
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 
-# toc:
-#   - name: Equations
-#     # if a section has subsections, you can add them as follows:
-#     # subsections:
-#     #   - name: Example Child Subsection 1
-#     #   - name: Example Child Subsection 2
-#   - name: Citations
-#   - name: Footnotes
-#   - name: Code Blocks
-#   - name: Layouts
-#   - name: Other Typography?
+toc:
+  - name: Introduction
 
 # # Below is an example of injecting additional post-specific styles.
 # # If you use this post as a template, delete this _styles block.
@@ -55,5 +46,7 @@ Citations, footnotes, and code blocks do not display correctly in the dark mode 
 If you are interested in correctly adding dark mode support for distill, please open [a discussion](https://github.com/alshedivat/al-folio/discussions) and let us know.-->
 
 ## Introduction
-<blockquote>I expressed the surprise which I experienced upon seeing with my own eyes the wonderful revelatory powers of the chrome-silver reaction – and the absence of any excitement in the scientific world aroused by its discovery.<br><br>– Ramón y Cajal
+<blockquote>
+<p>I expressed the surprise which I experienced upon seeing with my own eyes the wonderful revelatory powers of the chrome-silver reaction – and the absence of any excitement in the scientific world aroused by its discovery.</p>
+<footer>– Ramón y Cajal</footer>
 </blockquote>

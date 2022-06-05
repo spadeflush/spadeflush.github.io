@@ -11,8 +11,8 @@ horizontal: false
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a><b>Neurohistology</b></a></h5>
-        <h6 class="card-subtitle font-italic">Spring 2022: Brain Bee</h6>
+        <h5 class="card-title font-weight-normal">Neurohistology</h5>
+        <h6 class="card-subtitle font-italic">Summer 2022: Brain Bee</h6>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
