@@ -1,12 +1,15 @@
 ---
 layout: page
-title: interest 3
-description: a interest that redirects to another website
+title: linguistics & literature
+description: a interest with a background image
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: academic
 ---
+
+<blockquote>
+    The task of literature is to reconnect us with feelings that might otherwise be unbearable to study, but which desperately need our attention. — Franz Kafka
+</blockquote>
 
 Every interest has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
