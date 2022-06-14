@@ -69,7 +69,12 @@ cf: <b>[spadeflush](https://codeforces.com/profile/spadeflush)</b>
     <tr>
       <th class="font-weight-bold" scope="row">2021</th>
       <td>Joint School Olympiad in Informatics</td>
-      <td>Host</td>
+      <td>Organiser</td>
+    </tr>
+    <tr>
+      <th class="font-weight-bold" scope="row">2020/21</th>
+      <td>Joint School Electronics and Computer Society</td>
+      <td>Ext. Sec.</td>
     </tr>
   </tbody>
 </table>
