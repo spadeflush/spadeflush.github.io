@@ -13,9 +13,10 @@ authors:
 toc:
   - name: Introduction
   - name: Format
-  - name: Topics
+  - name: Syllabus
   - name: General
-  - name: English
+  - name: Others
+  - name: English?
   - name: Conclusion
 ---
 ## Introduction
@@ -29,7 +30,7 @@ There will be 50 MCQs for you to complete in two hours.<d-footnote>In the past t
 
 The official medal lines have never been released. However, it is generally agreed that 20 translates to a Bronze, 30 to a Silver and 40 to a Gold. Note that these are just <strong>predictions</strong>.
 
-## Topics
+## Syllabus
 
 I have reviewed all the [available past problems](https://www.hkage.org.hk/en/competitions/detail/6896) and assigned each into one of eleven categories. I have further assorted each category into one of four groups, as delineated by colour in the pie chart below. However, do note that **every biological discipline is closely intertwined**, and questions often test the candidate's knowledge on multiple fields.
 
@@ -60,7 +61,7 @@ Your performance in the ten other sections depends on your raw strength. There i
     <li><strong>Ask for help.</strong> This goes without saying, but you should never be afraid to ask for help on something you don't know. Contact your biology teacher. Alternatively, you can find my email on my about page. I will try my best to address your enquiries.</li>
 </ol>
 
-## English
+## English?
 
 It is often joked that the mastery of English is the most important part in preparing for the IBOHKC. And guess what, there <em>is</em> some truth to this statement. Many competitors often panic upon seeing a new word or shudder at the sight of a full-page wall of text. Don't. Here are two tips to help you get through:
 
