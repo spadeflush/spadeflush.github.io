@@ -20,6 +20,10 @@ toc:
 ---
 ## Introduction
 
+Welcome to this short article about IBOHKC! Here, I will go over just about all you need to know to ace the test. You can use the Table of Contents on the left to jump to different sections.
+
+Before you get nervous, know that by just preparing, you are already better than half of the candidates. So sit back and enjoy!
+
 ## Format
 There will be 50 MCQs for you to complete in two hours.<d-footnote>In the past two years, the paper has been partitioned into two sections of 25 MCQs with a 30-minute break in between.  This is presumably a 'pandemic arrangement'. It is unknown whether this practice will continue when the contest is again held in-person.</d-footnote> Winning a medal qualifies you for Phase I, after which you may progress through Phase II and III to eventually represent Hong Kong in the International Biology Olympiad. 
 
@@ -46,6 +50,16 @@ This is both the easiest *and* hardest category to master. Easy, because no prio
     </li>
 </ol>
 
+## Others
+
+Your performance in the ten other sections depends on your raw strength. There is no quick way to master every topic. But what if you only had a week left?
+
+<ol>
+    <li><strong>Do all the <a href="https://www.hkage.org.hk/en/competitions/detail/6896">past papers</a>.</strong> Beyond biological knowledge, you should know what exactly problem-setters want you to demonstrate. Be honest: time yourself and do every question seriously. A few of the model answers are wrong.</li>
+    <li><strong>Pick up a review book.</strong> <a href="https://drive.google.com/file/d/1oh0cR5lywXTTG4DNokg5syAPGjNASEIV/view?usp=sharing">CliffsNotes' AP® Biology</a> is not a bad idea. However, NEVER substitute review-book cramming with actual learning.</li>
+    <li><strong>Ask for help.</strong> This goes without saying, but you should never be afraid to ask for help on something you don't know. Contact your biology teacher. Alternatively, you can find my email on my about page. I will try my best to address your enquiries.</li>
+</ol>
+
 ## English
 
 It is often joked that the mastery of English is the most important part in preparing for the IBOHKC. And guess what, there <em>is</em> some truth to this statement. Many competitors often panic upon seeing a new word or shudder at the sight of a full-page wall of text. Don't. Here are two tips to help you get through:
@@ -59,4 +73,4 @@ It is often joked that the mastery of English is the most important part in prep
 
 ## Conclusion
 
-If you are still reading this, thank you: for taking biology seriously, for wading through these paragraphs and for heeding this stranger's advice. All that is left for you to do is to give your very all. Do not be anxious, for the intuition you have gained through your weeks of hard work will guide you towards the right answers. March into the test venue knowing you are the strongest candidate around. Write with confidence and walk through the paper with panache. Good luck and I hope to see you in Phase I!
+If there is one last thing you need to know, it is not to be anxious. The intuition you have built from your weeks of hard work will guide you towards the right answers. Write with confidence and walk through the paper with panache. Good luck and I hope to see you in Phase I!
