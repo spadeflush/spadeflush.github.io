@@ -35,7 +35,7 @@ The official medal lines have never been released. However, it is generally agre
 I have reviewed all the [available past problems](https://www.hkage.org.hk/en/competitions/detail/6896) and assigned each into one of eleven categories. I have further assorted each category into one of four groups, as delineated by colour in the pie chart below. However, do note that **every biological discipline is closely intertwined**, and questions often test the candidate's knowledge on multiple fields.
 
 <div class="text-center">
-    <img src="../../assets/img/ibohkc_distribution.jpg" width="75%">
+    <img src="../../../assets/img/ibohkc_distribution.jpg" width="75%">
 </div>
 
 ## General
