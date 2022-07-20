@@ -25,6 +25,11 @@ category: academic
   <tbody>
     <tr>
       <th class="font-weight-bold" scope="row">2022</th>
+      <td>International Brain Bee</td>
+      <td>Finalist</td>
+    </tr>
+    <tr>
+      <th class="font-weight-bold" scope="row">2022</th>
       <td>Hong Kong Brain Bee – Final Contest</td>
       <td>Champion</td>
     </tr>
