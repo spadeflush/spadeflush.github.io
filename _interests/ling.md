@@ -1,7 +1,7 @@
 ---
 layout: page
 title: linguistics & literature
-description: strange scripts, random poems & very cursed morphologies
+description: translating ancient poems & decoding logical puzzles
 img: assets/img/cityu.jpg
 importance: 3
 category: academic

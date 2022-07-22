@@ -46,7 +46,9 @@ Citations, footnotes, and code blocks do not display correctly in the dark mode 
 If you are interested in correctly adding dark mode support for distill, please open [a discussion](https://github.com/alshedivat/al-folio/discussions) and let us know.-->
 
 ## Introduction
+<!---
 <blockquote>
 <p>I expressed the surprise which I experienced upon seeing with my own eyes the wonderful revelatory powers of the chrome-silver reaction – and the absence of any excitement in the scientific world aroused by its discovery.</p>
 <footer>– Ramón y Cajal</footer>
 </blockquote>
+--->

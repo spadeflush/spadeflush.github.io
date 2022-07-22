@@ -16,33 +16,13 @@ horizontal: false
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
-    <li class="list-group-item bg-transparent">
-        <div class="row">
-          <div class="col-sm-11">
-            0.1 How to use these notes
-          </div>
-          <div class="col-sm-1">
-           tbc
-          </div>
-        </div>
-      </li>
       <li class="list-group-item bg-transparent">
         <div class="row">
           <div class="col-sm-11">
-            2.1 Stains you must know
+            Stains for the brain: common neurohistological techniques
           </div>
           <div class="col-sm-1">
            <a href="/notes/neuro/stains/">link</a>
-          </div>
-        </div>
-      </li>
-      <li class="list-group-item bg-transparent">
-        <div class="row">
-          <div class="col-sm-11">
-            2.2 Tissues you must know
-          </div>
-          <div class="col-sm-1">
-           tbc
           </div>
         </div>
       </li>
