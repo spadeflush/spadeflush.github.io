@@ -19,10 +19,10 @@ horizontal: false
       <li class="list-group-item bg-transparent">
         <div class="row">
           <div class="col-sm-11">
-            Stains for the brain: common neurohistological techniques
+            IBB 2022: patient diagnosis
           </div>
           <div class="col-sm-1">
-           <a href="/notes/neuro/stains/">link</a>
+           <a href="/notes/neuro/ibbdiag/">link</a>
           </div>
         </div>
       </li>

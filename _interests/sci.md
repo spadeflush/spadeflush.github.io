@@ -1,7 +1,7 @@
 ---
 layout: page
 title: maths & science
-description: neuroscience, biolympiads & math modeling papers
+description: 
 img: assets/img/benzene.jpg
 importance: 2
 category: academic
