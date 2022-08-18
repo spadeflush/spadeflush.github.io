@@ -6,9 +6,9 @@ img: assets/img/cityu.jpg
 importance: 3
 category: academic
 ---
-
 <blockquote>
-    The task of literature is to reconnect us with feelings that might otherwise be unbearable to study, but which desperately need our attention. — Franz Kafka
+    <p>The task of literature is to reconnect us with feelings that might otherwise be unbearable to study, but which desperately need our attention.</p>
+    <footer>Franz Kafka</footer>
 </blockquote>
 
 

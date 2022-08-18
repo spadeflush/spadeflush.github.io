@@ -27,6 +27,11 @@ cf: <b>[spadeflush](https://codeforces.com/profile/spadeflush)</b>
   </thead>
   <tbody>
     <tr>
+      <th class="font-weight-bold" scope="row">2022</th>
+      <td>Hong Kong Secondary School Coding Challenge</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
       <th class="font-weight-bold" scope="row">2021</th>
       <td>Hong Kong Olympiad in Informatics (Senior)</td>
       <td>Silver</td>
