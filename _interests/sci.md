@@ -1,7 +1,7 @@
 ---
 layout: page
 title: maths & science
-description: neuroscience, biolympiads & math modeling papers
+description: neuroscience, olympiads & some math modeling papers
 img: assets/img/benzene.jpg
 importance: 2
 category: academic
@@ -24,9 +24,24 @@ category: academic
   </thead>
   <tbody>
     <tr>
+      <th class="font-weight-bold" scope="row">2024</th>
+      <td>British Physics Olympiad (Round 1)</td>
+      <td>Top Gold</td>
+    </tr>
+    <tr>
+      <th class="font-weight-bold" scope="row">2023</th>
+      <td>Cambridge Chemistry Challenge (C3L6)</td>
+      <td>Roentgenium*</td>
+    </tr>
+    <tr>
+      <th class="font-weight-bold" scope="row">2023</th>
+      <td>British Mathematical Olympiad (Round 1)</td>
+      <td>Distinction</td>
+    </tr>
+    <tr>
       <th class="font-weight-bold" scope="row">2022</th>
       <td>International Brain Bee</td>
-      <td>Finalist</td>
+      <td>8th in World</td>
     </tr>
     <tr>
       <th class="font-weight-bold" scope="row">2022</th>
@@ -103,7 +118,7 @@ category: academic
     <tr>
       <th class="font-weight-bold" scope="row">2022</th>
       <td>International Biology Olympiad</td>
-      <td>Hong Kong Team*</td>
+      <td>Hong Kong Team**</td>
     </tr>
   </tbody>
 </table>
@@ -111,5 +126,7 @@ category: academic
 <br>
 
 <p>
-*<i>Hong Kong decided not to participate in the International Biology Olympiad 2022.</i>
+*<i>This is the element below gold in the periodic table, and is awarded to the top 60 participants in the nation. Recipients are also invited to attend a four-day camp at St Catharine's College, University of Cambridge.</i>
+<br><br>
+**<i>Hong Kong decided not to participate in the International Biology Olympiad 2022.</i>
 </p>

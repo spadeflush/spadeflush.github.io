@@ -29,6 +29,11 @@ category: academic
   </thead>
   <tbody>
     <tr>
+      <th class="font-weight-bold" scope="row">2024</th>
+      <td>British Linguistics Olympiad (Round 2)</td>
+      <td>Distinction*</td>
+    </tr>
+    <tr>
       <th class="font-weight-bold" scope="row">2022</th>
       <td>Asia Pacific Linguistics Olympiad</td>
       <td>Bronze</td>
@@ -92,11 +97,13 @@ category: academic
     <tr>
       <th class="font-weight-bold" scope="row">2022</th>
       <td>International Linguistics Olympiad</td>
-      <td>Hong Kong Team*</td>
+      <td>Hong Kong Team**</td>
     </tr>
   </tbody>
 </table>
 <br>
 <p>
-*<i>Declined to participate for personal reasons.</i>
+*<i>Awarded to the top 6 participants in the nation. Recipients were invited to attend a four-day intensive training camp at Magdalen College, University of Oxford.</i>
+<br><br>
+**<i>Declined to participate due to visa issues.</i>
 </p>
