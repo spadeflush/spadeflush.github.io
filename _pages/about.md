@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: new_pic.jpg
   address:
 
 news: true  # includes a list of news items
@@ -16,6 +16,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hey! Thanks for stopping by.
 
-I'm a Form 5 student at La Salle College aspiring to become a neuroscientist. My interests are mainly in cognitive neuroscience, computational neuroscience and neurology.
+I'm a Year 1 Natural Sciences student at the University of Cambridge. My interests are broadly in neuroscience, though I do have a maths background and can just about code.
 
-If you spot an error on this website, please do shoot me a text!
+In my free time I'm also a photographer, calligrapher and classicist. If I have the time you might also find me joining (socio)linguistics projects.
+
+Please feel free to find me for a chat anytime!
