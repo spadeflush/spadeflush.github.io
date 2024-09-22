@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hey! Thanks for stopping by.
 
-I'm a Year 1 Natural Sciences student at the University of Cambridge. My interests are broadly in neuroscience, though I do have a maths background and can just about code.
+I'm a Year 1 Natural Sciences student at the University of Cambridge. I'm broadly interested in neuroscience, though I do have a maths background and can just about code.
 
 In my free time I'm also a photographer, calligrapher and classicist. If I have the time you might also find me joining (socio)linguistics projects.
 
