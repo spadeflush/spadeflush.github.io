@@ -11,6 +11,11 @@ category: academic
     <footer>Franz Kafka</footer>
 </blockquote>
 
+Over summer 2024 I joined a linguistics research project at CUHK's Faculty of Arts, on the distribution of the /r/ phoneme across Hong Kong (replicating Labov's fourth-floor experiment). I mainly helped with designing questions and data analysis. We found that higher-class speakers tended to pronounce their /r/s more.
+
+I thought this could be due to two reasons. First, rhoticity is not phonotactically present in Cantonese, and so locals who are not fluent in English (and thus likely from lower-class backgrounds) would be unable to pronounce /r/. In turn, non-rhoticity is associated with the lower class, and so higher-class speakers would exhibit their /r/s to show their education. Second, AmEng is increasingly becoming the prestige dialect instead of RP in Hong Kong, a former British colony. The pervasiveness of American media (e.g., YouTube) may mean AmEng is now associated with 'trendiness' and 'informality' whereas RP is thought of as 'tedious' and 'old'.
+
+Overall, this was pretty fun, and a good excuse to learn some data science.
 
 <h4 id="achievements">achievements</h4>
 
@@ -103,7 +108,7 @@ category: academic
 </table>
 <br>
 <p>
-*<i>Awarded to the top 6 participants in the nation. Recipients were invited to attend a four-day intensive training camp at Magdalen College, University of Oxford.</i>
+*<i>Awarded to the top 6 participants in the nation. Recipients were invited to attend a four-day intensivee training camp at Magdalen College, University of Oxford.</i>
 <br><br>
 **<i>Declined to participate due to visa issues.</i>
 </p>

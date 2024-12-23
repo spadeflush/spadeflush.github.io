@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: new_pic.jpg
+  image: profile.jpg
   address:
 
 news: true  # includes a list of news items
@@ -16,8 +16,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hey! Thanks for stopping by.
 
-I'm a Year 1 Natural Sciences student at the University of Cambridge. My interests are broadly in neuroscience, though I do have a maths background and can just about code.
+I'm currently a Year 1 Natural Sciences student at the University of Cambridge. This is a fairly inactive site that gets updated once every several months; I've documented my interests and some of my notes. Hopefully I shall be updating it more often.
 
-In my free time I also like to do photography, calligraphy and read classics. If I have time I might even be joining (socio)linguistics projects.
-
-Please feel free to find me for a chat anytime!
+If you'd like to find me for any reason, I'm open for a chat anytime!
