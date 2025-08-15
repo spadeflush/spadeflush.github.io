@@ -1,8 +1,8 @@
 ---
 layout: distill
-title: "test"
-description: test
-date: 2025-08-14
+title: "Choose kind"
+description: On metatethics
+date: 2025-08-15
 published: false
 
 authors:
@@ -11,23 +11,16 @@ authors:
     affiliations:
       name: University of Cambridge
 
-# Optionally, you can add a table of contents to your post.
-# NOTES:
-#   - make sure that TOC names match the actual section names
-#     for hyperlinks within the post to work correctly.
-#   - we may want to automate TOC generation in the future using
-#     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
-toc:
-  - name: Equations
-    # if a section has subsections, you can add them as follows:
-    # subsections:
+
+# toc:
+  # - name: Equations
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
-  - name: Citations
-  - name: Footnotes
-  - name: Code Blocks
-  - name: Layouts
-  - name: Other Typography?
+  # - name: Citations
+  # - name: Footnotes
+  # - name: Code Blocks
+  # - name: Layouts
+  # - name: Other Typography?
 
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
